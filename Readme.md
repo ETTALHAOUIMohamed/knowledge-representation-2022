@@ -19,4 +19,6 @@ If first in one task, you'll earn a mystery legendary loot. Hence, two winners (
 |                             | ogbn-arxiv                    | ogbg-mol                    |
 |-----------------------------|-------------------------------|-----------------------------|
 |Eleanor TroFor                 | 1000.0%                        | 1000.00%                      |
+|Mohamed ETTALHAOUI             | 70.24%                         | 62.71%                        |
+
 
